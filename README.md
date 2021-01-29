@@ -1,5 +1,5 @@
-# PersonalWebsite
-A website built from scratch with the intention of creating an easily accessible space when anyone interested can view my projects as well as get in contact with me.
+# PersonalPortfolio
+A website built using bootstrap with the intention of creating an easily accessible space where anyone interested can view my projects as well as get in contact with me.
 
 ### What I learned
 - An introduction to Bootstrap
