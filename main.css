@@ -1,0 +1,144 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.description {
+    position: absolute;
+    top: 41%;
+    text-align: left;
+    color: #00CCFF;
+}
+
+.description p {
+    line-height: 1.5;
+    color: #6B6E70;
+    font-size: 1.2rem;
+}
+
+.projectHeader {
+    text-align: left;
+    padding-bottom: 1rem;
+    color: #00CCFF;
+}
+
+.contactHeader {
+    text-align: left;
+    padding-bottom: 1rem;
+    color: #00CCFF;
+}
+
+.experienceHead {
+    text-align: left;
+    padding-bottom: 1rem;
+    color: #00CCFF;
+}
+
+.uconn {
+    max-width: 220px;
+    padding: 1em;
+}
+
+.college {
+    max-width: 281px;
+    padding: 1em;
+}
+
+.projects {
+    padding-bottom: 4em;
+}
+
+.footer {
+    padding-bottom: 5em;
+}
+
+.underForm {
+    padding-top: 1em;
+    font-size: 2.5em;
+}
+
+.card {
+    background-color: #E7EBEE;
+    
+}
+
+.card:hover {
+    -webkit-box-shadow: .1em .1em .2em .3em #ccc;  
+    -moz-box-shadow:    .1em .1em .2em .3em #ccc; 
+    box-shadow:         .1em .1em .2em .3em #ccc;
+    transform: scale(1.01);
+}
+
+body {
+    background-color: #FCFAFA;
+}
+
+.nav-link {
+    color: #00CCFF;
+}
+
+.nav-link:hover {
+    color: #00B4E0;
+}
+
+.navbar-brand {
+    color: #00CCFF;
+}
+
+.navbar-brand:hover {
+    color: #00B4E0;
+}
+
+.btn-primary {
+    background-color: #00CCFF;
+    border: #00CCFF;
+    margin-top: .8em;
+}
+
+.btn-primary:hover {
+    background-color: #00B4E0;
+}
+
+.fa {
+    color: #00CCFF;
+    padding: .7em;
+    padding-top: 0em;
+}
+
+.fa:hover {
+    transform: scale(1.1);
+}
+
+.chrome {
+    margin-left: .4em;
+}
+
+.viewUconn {
+    margin-right: .4em;
+}
+
+.navbar {
+    border-bottom: 3px solid #00B4E0;
+    background-color: #FCFAFA;
+}
+
+.row p {
+    font-size: 1.1rem;
+}
+
+h5 {
+    font-size: 1.3rem;
+}
+
+.hackLogo {
+    max-width: 220px;
+    padding: 1em;
+}
+
+.acmLogo {
+    max-width: 220px;
+    padding: 1em;
+}
+
+.experience {
+    padding-bottom: 4em;
+}
