@@ -10,3 +10,4 @@ A website built from scratch with the intention of creating an easily accessible
 - HTML
 - CSS
 - Javascript
+- Bootstrap
